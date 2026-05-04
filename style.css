@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;   
+  justify-content: center;  
+  align-items: center;      
+  background-color: #111;
+  color: white;
+} 
+h1{
+  color: #f8a621;
+  text-align: center;
+  font-size: 54px;
+}
+.clock{
+  background: #111;
+  padding: 40px 80px;
+  width: 350px;
+  border-radius: 50%;
+  box-shadow: 0 0 50px #f8a621;
+  margin: 150px;
+  
+}
+#time{
+  font-size: 60px;
+  letter-spacing: 3px;
+} 
